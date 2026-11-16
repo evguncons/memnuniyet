@@ -5,7 +5,7 @@ import os
 # Sayfa Konfigürasyonu
 # -----------------------------------------------------------------------------
 st.set_page_config(
-    page_title="HEDEF AVM MEMNUNİYET ANKETİP",
+    page_title="HEDEF AVM MEMNUNİYET ANKETİ",
     page_icon="🏆",
     layout="wide"
 )
